@@ -1,0 +1,4 @@
+python -m pip install pymongo
+python -m pip install dnspython
+python -m pip install pillow
+python -m pip install datetime
